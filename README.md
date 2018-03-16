@@ -6,7 +6,7 @@
   </p>
 </p>
 <br>
-This software is inspired by [BY-jk/pwned](https://github.com/BY-jk). 
+This software is inspired by [BY-jk/pwned](https://github.com/BY-jk/pwned). 
 
 Type your password and it will be tested against [haveibeenpwned](https://haveibeenpwned.com/) huge list of vulnerable passwords.
 
@@ -44,9 +44,10 @@ Here is how this script works:
 
 ## Prerequisites and Installing
 
-All that is needed is Python (either 2.x or 3.x). 
+Python (either 2.x or 3.x) is needed.
+You can get and install Python from the [Python Software Foundation](https://www.python.org/) 
 
-No installation is needed. Just get the repository.
+No other installation is needed. Just get the repository.
 
 
 ## Author
@@ -55,5 +56,5 @@ No installation is needed. Just get the repository.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

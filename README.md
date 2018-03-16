@@ -6,7 +6,7 @@
   </p>
 </p>
 <br>
-This software is inspired by [BY-jk/pwned](https://github.com/BY-jk/pwned)
+This software is inspired by https://github.com/BY-jk/pwned
 
 Type your password and it will be tested against [haveibeenpwned](https://haveibeenpwned.com/) huge list of vulnerable passwords.
 
